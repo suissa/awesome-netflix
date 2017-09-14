@@ -2,6 +2,7 @@
 
 ## Documentary
 
+- Cosmos
 - What the health
 - Requiem for a American Dream
 - Super High Me
