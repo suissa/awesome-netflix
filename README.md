@@ -1,4 +1,4 @@
-# awesome-netflix-documentaries
+# Awesome Netflix
 
 ## Documentary
 
